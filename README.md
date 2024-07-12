@@ -9,3 +9,10 @@
 4. Сгенерировать отчет 'allure generate allure-files -o allure-report'
 5. Открыть отчет 'allure open allure-report'
 
+### Стек:
+- selenium
+- requests
+- pytest
+- allure
+- configparser
+- json
