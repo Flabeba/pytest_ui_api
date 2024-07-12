@@ -2,7 +2,7 @@
 
 ## Шаблон для автоматизации тестирования на python
 
-### Шаги
+### Шаги:
 1. Склонировать проект 'git clone https://github.com/Flabeba/pytest_ui_api.git'
 2. Установить зависимости
 3. Запустить тесты 'pytest'
@@ -25,3 +25,10 @@
 - test_config.ini - настройки для тестов
 - ./testdata - провайдер тестовых данных
 - test_data.json
+
+### Библиотеки
+- pip install pytest
+- pip install selenium
+- pip install requests
+- pip install allure
+- pip install webdriver-manager
