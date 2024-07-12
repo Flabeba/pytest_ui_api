@@ -27,7 +27,10 @@
 - test_data.json
 
 ### Полезные ссылки
-[Подсказка по markdown](https://www.markdownguide.org/basic-syntax/)
+- [Подсказка по markdown](https://www.markdownguide.org/basic-syntax/)
+- [Генератор фала .gitignore](https://www.toptal.com/developers/gitignore)
+- [Про configparser](https://docs.python.org/3/library/configparser.html#module-configparser)
+- [Про pip freeze](https://pip.pypa.io/en/stable/cli/pip_freeze/)
 
 ### Библиотеки
 - pip install pytest
