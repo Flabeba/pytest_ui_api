@@ -26,6 +26,9 @@
 - ./testdata - провайдер тестовых данных
 - test_data.json
 
+### Полезные ссылки
+[Подсказка по markdown](https://www.markdownguide.org/basic-syntax/)
+
 ### Библиотеки
 - pip install pytest
 - pip install selenium
