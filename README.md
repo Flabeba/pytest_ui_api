@@ -16,3 +16,12 @@
 - allure
 - configparser
 - json
+
+### Струткура:
+- ./test - тесты
+- ./pages - описание страниц
+- ./api - хэлперы для работы с API
+- ./configuration - провайдер настроек
+- test_config.ini - настройки для тестов
+- ./testdata - провайдер тестовых данных
+- test_data.json
